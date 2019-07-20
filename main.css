@@ -12,3 +12,8 @@ ul li {
     font-size: 15px ;
 }
 
+li:hover {
+    text-decoration: underline ;
+    opacity: 75%;
+}
+
