@@ -87,5 +87,27 @@ button {
     margin: 0 5px ;
 }
 
+footer {
+    background-color: rgba(198, 192, 192, 0.54);
+    position: absolute;
+    bottom: 0;
+    width: 100%
 
+}
+
+.first {
+    margin-left: 50px ;
+
+}
+.right {
+    float:left ;
+
+}
+.left {
+    float :right ;
+}
+
+.end {
+    border-top: 1px solid black ;
+}
       
