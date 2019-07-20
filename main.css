@@ -32,3 +32,13 @@ li:hover {
     font-weight: bold ;
     border-radius: 3px ;
 }
+
+#logo {
+    margin: 0 auto ;
+    width: 400px ;
+    height: 250px ;
+    overflow: hidden;
+}
+
+
+      
