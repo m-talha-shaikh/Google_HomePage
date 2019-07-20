@@ -110,4 +110,7 @@ footer {
 .end {
     border-top: 1px solid black ;
 }
-      
+
+button :hover {
+  text-shadow: rgb(66, 133, 244);
+}
